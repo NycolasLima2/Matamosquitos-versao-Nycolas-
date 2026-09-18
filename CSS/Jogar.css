@@ -1,0 +1,12 @@
+.Mosquito{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+body{
+    background-image: url(/img/BackgroundM.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
